@@ -1,7 +1,7 @@
 ---
 title: 'Hello, World!'
 date: 2024-02-23T23:00:00.000Z
-featured: true
+featured: false
 tranding: true
 readTime: 10 min
 thumbnail: /images/blog/post-9.png
