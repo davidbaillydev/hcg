@@ -5,15 +5,15 @@ const branch =
   process.env.GITHUB_BRANCH ||
   process.env.VERCEL_GIT_COMMIT_REF ||
   process.env.HEAD ||
-  "main";
+  "master";
 
 export default defineConfig({
-  branch,
+  branch : "master",
 
   // Get this from tina.io
-  clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
+  clientId: "165fed9e-7e74-402b-8682-e8df097ef292",
   // Get this from tina.io
-  token: process.env.TINA_TOKEN,
+  token: "fe29338b19209438472ba184280ab765a0aaa5cc",
 
   build: {
     outputFolder: "admin",
@@ -40,6 +40,49 @@ export default defineConfig({
             isTitle: true,
             required: true,
           },
+
+          {
+            type: 'datetime',
+            name: 'date',
+            label: 'Date',
+          },
+          
+          {
+            type: 'string',
+            name: 'tags',
+            label: 'Tags',
+            description: 'Tags for this post',
+            // list: true,
+            ui: {
+              component: 'tags',
+            }
+        
+          },
+
+          {
+            name: 'tranding',
+            label: 'tranding',
+            type: 'boolean',
+          },
+
+          {
+            type: "string",
+            name: "readTime",
+            label: "readTime",
+          },
+        
+          {
+            type: 'image',
+            label: 'thumbnail',
+            name: 'thumbnail',
+          },
+
+          {
+            type: 'image',
+            label: 'featureImage',
+            name: 'featureImage',
+          },
+
           {
             type: "rich-text",
             name: "body",
