@@ -59,6 +59,13 @@ export default defineConfig({
         
           },
 
+
+          {
+            name: 'featured',
+            label: 'featured',
+            type: 'boolean',
+          },
+
           {
             name: 'tranding',
             label: 'tranding',
