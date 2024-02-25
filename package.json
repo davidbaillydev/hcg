@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/davidbaillydev/hcg/issues"
   },
-  "homepage": "https://github.com/davidbaillydev/hcg#readme"
+  "homepage": "https://github.com/davidbaillydev/hcg#readme",
+  "dependencies": {
+    "tinacms": "^1.5.28"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.5.39",
+    "@types/node": "^20.11.20"
+  }
 }
