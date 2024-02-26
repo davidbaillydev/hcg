@@ -1,7 +1,7 @@
 ---
 title: 'Hello, World!'
 date: 2024-02-23T23:00:00.000Z
-tags: 
+tags: '"politique"'
 featured: false
 tranding: true
 readTime: 10 min
