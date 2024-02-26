@@ -48,10 +48,10 @@ export default defineConfig({
           },
           
           {
-            type: 'string',
+            type: "string",
             name: "tags",
-            label: 'Tags',
-            description: 'Tags for this post',
+            label: "Tags",
+            description: "Tags for this post",
             // list: true,
             // ui: {
             //   component: 'tags',
