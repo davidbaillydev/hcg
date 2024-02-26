@@ -1,11 +1,7 @@
 ---
 title: 'Hello, World!'
 date: 2024-02-23T23:00:00.000Z
-<<<<<<< HEAD
-tags:
-=======
-tags: ''
->>>>>>> 85b0342e9d203854b447d17ed169fdce1d139ef8
+tags: 
 featured: false
 tranding: true
 readTime: 10 min
