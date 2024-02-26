@@ -49,7 +49,7 @@ export default defineConfig({
           
           {
             type: 'string',
-            name: 'tags',
+            name: "tags",
             label: 'Tags',
             description: 'Tags for this post',
             // list: true,
