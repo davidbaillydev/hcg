@@ -52,7 +52,7 @@ export default defineConfig({
             name: "tags",
             label: "Tags",
             description: "Tags for this post",
-            // list: true,
+            list: true,
             ui: {
               component: 'tags',
             }
