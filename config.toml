@@ -1,17 +1,17 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
+languageCode = "fr-fr"
 paginate = 6
 summarylength = 10
-title = "Blogge | Personal Blog Template"
+title = "Harmoni Culture Gabon | l'actualités de la transition"
 themes = "blogge-hugo-theme"
 
 [menu]
   [[menu.main]]
-    name = "Home"
+    name = "Acceuil"
     url= ""
     weight= 1
   [[menu.main]]
-    name = "About"
+    name = "À Propos"
     url= "about"
     weight= 2
   [[menu.main]]
@@ -30,8 +30,8 @@ themes = "blogge-hugo-theme"
   facebookUsername = "mary_astor"
   twitterUsername = "mary_astor"
   linkedinUsername = "mary_astor"
-  blogTitle = "Articles"
-  blogSubTitle = "View the latest news on Blogger"
+  blogTitle = "Informations sur Par HCG"
+  blogSubTitle = "Voir les dernières actualités sur Harmoni Culture Gabon"
   trendingBlogIcon = "images/blog/icon.svg"
   # Replace the third party URL/API with yours
   # We're using formspree.io for form handling, paste your formspree url below

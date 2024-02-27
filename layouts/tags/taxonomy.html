@@ -5,7 +5,7 @@
       <div class="col-lg-8 mx-auto">
         <div class="blog-section-title">
           <h2>{{ .Title }}</h2>
-          <p>View the latest blogs on {{ .Title }}</p>
+          <p>Voir les derniers articles sur {{ .Title }}</p>
         </div>
         {{ range $.Paginator.Pages }}
         <article class="blog-post">
@@ -23,7 +23,7 @@
                 </li>
                 <li>
                   <i class="fa fa-clock-o"></i>
-                  {{ .PublishDate.Format "January 2, 2006" }} - {{ .Params.readTime }} read
+                  {{ .PublishDate.Format "January 2, 2006" }} - {{ .Params.readTime }} Lire
                 </li>
               </ul>
             </div>
