@@ -1,3 +1,3 @@
 ---
-title: "About me"
+title: "À Propos"
 ---
