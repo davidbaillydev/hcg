@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "fr-fr"
 paginate = 6
 summarylength = 10
