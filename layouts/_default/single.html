@@ -5,7 +5,7 @@
     <div class="row">
       <div class="col-lg-2 order-2 order-lg-1">
         <div class="share-now">
-          <a href="#" class="scrol">Share</a>
+          <a href="#" class="scrol">Partagez</a>
           <div class="sociel-icon">
             <ul>
               <li>
@@ -37,7 +37,7 @@
             </li>
             <li>
               <i class="fa fa-clock-o"></i>
-              {{ .PublishDate.Format "January 2, 2006" }} - {{ .Params.readTime }} read
+              {{ .PublishDate.Format "January 2, 2006" }} - {{ .Params.readTime }} Lire
             </li>
           </ul>
           <div class="feature-image">
@@ -51,7 +51,7 @@
         <div class="blog-single-presentation">
           <ul>
             {{ with .Site.RegularPages.Prev . }}
-            <li> <a href="{{.RelPermalink}}" class="tag">PREVIOUS</a>
+            <li> <a href="{{.RelPermalink}}" class="tag">PRECEDENT</a>
               <a href="{{.RelPermalink}}" class="title">
                 {{ .Title }}
               </a>
@@ -60,7 +60,7 @@
             </li>
             {{ end }}
             {{ with .Site.RegularPages.Next . }}
-            <li> <a href="{{.RelPermalink}}" class="tag">Next</a>
+            <li> <a href="{{.RelPermalink}}" class="tag">SUIVANT</a>
               <a href="{{.RelPermalink}}" class="title">
                 {{ .Title }}
               </a>
