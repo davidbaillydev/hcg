@@ -1,5 +1,5 @@
 ---
-title: Gabon Oil Company est la deuxième compagnie pétrolière après Petrogab
+title: Gabon Oil Company est la deuxième après Petrogab
 date: 2021-01-13T11:33:14.000Z
 tags: petrol
 featured: true
