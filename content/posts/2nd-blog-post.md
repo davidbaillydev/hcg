@@ -17,7 +17,7 @@ Si le contrat avec Nike est résilié, l'option la plus probable est de créer u
 
 ### Make better \*\*business \*\*
 
-![](/images/blog/feature-image-03.jpg)
+![](/BB08611F-4D22-43C6-91F7-4125D676277E.jpeg)
 
 ### The Dreamy Factors
 
