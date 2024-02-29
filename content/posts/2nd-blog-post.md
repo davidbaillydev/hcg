@@ -1,5 +1,5 @@
 ---
-title: 2nd blog post
+title: La rupture entre le Barça et Nike est imminente
 date: 2021-01-13T12:10:40.000Z
 tags: news
 featured: true
