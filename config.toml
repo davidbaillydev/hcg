@@ -30,7 +30,7 @@ themes = "blogge-hugo-theme"
   facebookUsername = "mary_astor"
   twitterUsername = "mary_astor"
   linkedinUsername = "mary_astor"
-  blogTitle = "Informations sur Par HCG"
+  blogTitle = "Informations sur HCG"
   blogSubTitle = "Voir les dernières actualités sur Harmoni Culture Gabon"
   trendingBlogIcon = "images/blog/icon.svg"
   # Replace the third party URL/API with yours
