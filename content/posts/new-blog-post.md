@@ -2,7 +2,7 @@
 title: 'Sneakers '
 date: 2021-01-13T12:20:40.000Z
 tags: 'Lifestyle '
-tranding: false
+tranding: true
 readTime: 5 min
 thumbnail: /4D50BFD3-B17B-44D8-9473-D117637EEEEA.jpeg
 featureImage: /images/blog/feature-image-02.jpg
