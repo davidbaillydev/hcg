@@ -2,8 +2,9 @@
 title: 2nd blog post
 date: 2021-01-13T12:10:40.000Z
 tags: news
-tranding: false
-readTime: 4 min
+featured: true
+tranding: true
+readTime: 3 min
 thumbnail: /images/blog/DE72ADD2-0BED-45E3-B5BE-EB86EB36607E.jpeg
 featureImage: /images/blog/A59557EB-E1F1-4184-AC4A-34AA5FEF2F80.jpeg
 ---
