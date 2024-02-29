@@ -15,7 +15,7 @@ Nike n'a pas encore accepté la demande de Barcelone de payer une plus grosse so
 
 Si le contrat avec Nike est résilié, l'option la plus probable est de créer une marque pour que le club fabrique le maillot en coopération avec BLM, qui fabrique des vêtements non sportifs pour le club. @sport
 
-### Make better \*\*business \*\*
+### Make better business 
 
 ![](/images/blog/4AFA0F49-0739-47CD-A8D4-3E620A216822.jpeg)
 
