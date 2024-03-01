@@ -3,7 +3,7 @@ title: Breaking news post
 date: 2024-01-26T23:00:00.000Z
 tags: news
 tranding: true
-readTime: 10 min
+readTime: 1min
 thumbnail: /images/author.png
 featureImage: /C2F544BF-C2D6-42D3-8D9A-EA4E7BCE9FA8.jpeg
 ---
