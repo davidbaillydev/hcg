@@ -8,22 +8,6 @@ thumbnail: /4D50BFD3-B17B-44D8-9473-D117637EEEEA.jpeg
 featureImage: /A12D2446-20CC-4067-8247-983AFC313275.jpeg
 ---
 
-Nike Total Air Foamposite Max (2011) 🔥
+#### Nike Total Air Foamposite Max (2011) 🔥
 
-Sortie printemps 2024
-
-### Make better business
-
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-> You’ve got to get up every morning with determination if you’re going to go to bed with satisfaction.
-
-![](/images/blog/feature-image-06.jpg)
-
-### The Dreamy Factors
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Portée par l’un des meilleurs 4/5 à avoir foulé les parquets de la NBA, futur Hall of Famer, la [Nike Air Total Foamposite Max](https://www.sneakers.fr/basket/nike-air-total-foamposite-max%20) revient aux USA pour la rentrée. Tim Duncan jouait avec ce modèle en 1998, notamment dans son coloris silver. Elle sera disponible à l’ automne  2024 .Restez branché ! 
