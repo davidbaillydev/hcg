@@ -21,16 +21,9 @@ Monsieur le President,
 
 C’est avec humilité que je vous adresse cette lettre ouverte.
 
-À la suite de ma nomination au poste de Directeur Général des Arts et des Industries Culturelles, je tiens à vous exprimer mes sincères remerciements pour la confiance que vous avez témoigné envers moi.
+[https://www.facebook.com/share/p/LMrd5vwmw3PuJ4Lp/?mibextid=WC7FNe](https://www.facebook.com/share/p/LMrd5vwmw3PuJ4Lp/?mibextid=WC7FNe) \\
 
-Cette nomination m’a permis de comprendre les difficultés profondes de l’administration gabonaise. J’ose espérer, que vous aurez l’opportunité de résorber cela progressivement, même si les mauvaises habitudes perdurent.
-
-En effet, j’ai l’honneur de porter à Votre Très Haute Attention les quelques éléments relatifs aux difficultés auxquelles j’ai fait face en tant que Directeur Général:
-
-⁃ De ma nomination à la fin de ma prise de fonction, je n’ai perçu aucun salaire. Étant donné que je ne suis pas fonctionnaire, il me fallait signer un contrat de travail en statut de hors catégorie. À plusieurs reprises, j’ai fait remonter cette absence de salaire et de contrat de travail, à mon secrétariat général, à l’ancien directeur de cabinet du …[https://www.facebook.com/share/p/LMrd5vwmw3PuJ4Lp/?mibextid=WC7FNe](https://www.facebook.com/share/p/LMrd5vwmw3PuJ4Lp/?mibextid=WC7FNe) \
-
-
-#### ARTS CULINAIRES : coupe du monde 
+#### ARTS CULINAIRES : coupe du monde
 
 ![](/7EF6A600-C6AE-4605-AD29-0C55E200D1B8.jpeg)
 
