@@ -49,3 +49,10 @@ Je sollicite humblement votre intervention pour le règlement de mes 5 mois de s
 Pour ma part et quoi qu’il en soit, je reste disposée à servir partout où besoin sera. \
 \
 Profond respect et entier dévouement.
+
+#### ARTS CULINAIRES : coupe du monde 
+
+Le Gabon a brillé à Hammamet ( Tunisie ) lors de la compétition organisé du 22 au 26 février.
+
+L’Association Africa Gastronomique avec ses trois chefs qui ont tous décroché une médaille : deux médailles d’or pour le chef Asham et chef Nicaise , et une en argent pour le chef Délhiat Koumba Koumba . \
+140 pays étaient représentés à cette coupe du monde de cuise et de pâtisserie avec plus de 5000 participants .
