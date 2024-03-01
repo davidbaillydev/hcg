@@ -4,7 +4,7 @@ date: 2024-02-01T23:00:00.000Z
 tags: 'Lifestyle '
 tranding: true
 readTime: 1min
-thumbnail: /4D50BFD3-B17B-44D8-9473-D117637EEEEA.jpeg
+thumbnail: /5322CE9C-F8E9-49C4-AC6C-8AFE9CF104E8.jpeg
 featureImage: /A12D2446-20CC-4067-8247-983AFC313275.jpeg
 ---
 
