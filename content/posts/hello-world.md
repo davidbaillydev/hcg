@@ -27,7 +27,7 @@ Cette nomination m’a permis de comprendre les difficultés profondes de l’ad
 
 En effet, j’ai l’honneur de porter à Votre Très Haute Attention les quelques éléments relatifs aux difficultés auxquelles j’ai fait face en tant que Directeur Général:
 
-⁃ De ma nomination à la fin de ma prise de fonction, je n’ai perçu aucun salaire. Étant donné que je ne suis pas fonctionnaire, il me fallait signer un contrat de travail en statut de hors catégorie. À plusieurs reprises, j’ai fait remonter cette absence de salaire et de contrat de travail, à mon secrétariat général, à l’ancien directeur de cabinet du … \
+⁃ De ma nomination à la fin de ma prise de fonction, je n’ai perçu aucun salaire. Étant donné que je ne suis pas fonctionnaire, il me fallait signer un contrat de travail en statut de hors catégorie. À plusieurs reprises, j’ai fait remonter cette absence de salaire et de contrat de travail, à mon secrétariat général, à l’ancien directeur de cabinet du …[https://www.facebook.com/share/p/LMrd5vwmw3PuJ4Lp/?mibextid=WC7FNe](https://www.facebook.com/share/p/LMrd5vwmw3PuJ4Lp/?mibextid=WC7FNe) \
 
 
 #### ARTS CULINAIRES : coupe du monde 
