@@ -13,12 +13,11 @@ BREAKING : Le FC Barcelone est sur le point de prendre une décision HISTORIQUE 
 
 Nike n'a pas encore accepté la demande de Barcelone de payer une plus grosse somme.Créer une marque signifie que tous les revenus de la vente de maillots iront au club.
 
-Si le contrat avec Nike est résilié, l'option la plus probable est de créer une marque pour que le club fabrique le maillot en coopération avec BLM, qui fabrique des vêtements non sportifs pour le club. @sport
+Si le contrat avec Nike est résilié, l'option la plus probable est de créer une marque pour que le club fabrique le maillot en coopération avec BLM, qui fabrique des vêtements non sportifs pour le club. @sport\
 
-### Make better business 
 
 ![](/images/blog/4AFA0F49-0739-47CD-A8D4-3E620A216822.jpeg)
 
-### The Dreamy Factors
+### LE BARÇA TIENT SON PLAN B POUR L'ÉQUIPEMENTIER, L'ASSE LE CONNAIT BIEN 
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+### ![](/BDD05498-D9E7-4C5A-BB87-EA4744939B8E.jpeg)
