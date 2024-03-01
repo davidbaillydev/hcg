@@ -1,6 +1,6 @@
 ---
 title: 'Sneakers '
-date: 2024-02-28T23:00:00.000Z
+date: 2024-02-01T23:00:00.000Z
 tags: 'Lifestyle '
 tranding: true
 readTime: 1min
