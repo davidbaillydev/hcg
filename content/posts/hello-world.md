@@ -19,8 +19,7 @@ Monsieur le President,
 
 C’est avec humilité que je vous adresse cette lettre ouverte.
 
-[https://www.facebook.com/share/p/LMrd5vwmw3PuJ4Lp/?mibextid=WC7FNe](https://www.facebook.com/share/p/LMrd5vwmw3PuJ4Lp/?mibextid=WC7FNe) \
-
+[https://www.facebook.com/share/p/LMrd5vwmw3PuJ4Lp/?mibextid=WC7FNe](https://www.facebook.com/share/p/LMrd5vwmw3PuJ4Lp/?mibextid=WC7FNe) \\
 
 ### ARTS CULINAIRES : coupe du monde
 
@@ -29,4 +28,12 @@ C’est avec humilité que je vous adresse cette lettre ouverte.
 Le Gabon a brillé à Hammamet ( Tunisie ) lors de la compétition organisé du 22 au 26 février.
 
 L’Association Africa Gastronomique avec ses trois chefs qui ont tous décroché une médaille : deux médailles d’or pour le chef Asham et chef Nicaise , et une en argent pour le chef Délhiat Koumba Koumba . \
-140 pays étaient représentés à cette coupe du monde de cuise et de pâtisserie avec plus de 5000 participants .
+140 pays étaient représentés à cette coupe du monde de cuise et de pâtisserie avec plus de 5000 participants.
+
+### L’expo de la semaine  
+
+![](/483AC9DA-15E7-450E-BB95-E3E9C28CD91F.jpeg)
+
+L’artiste Eddy Hendrickx Mayombo transforme papiers et cartons usagés en sculptures et objets en s'inspirant de la technique ancestrale de l'origami. Son travail est visible notamment à l'Institut français de Libreville.
+
+[https://www.facebook.com/share/r/ZRz3JYMu9KkVh14T/?mibextid=WC7FNe](https://www.facebook.com/share/r/ZRz3JYMu9KkVh14T/?mibextid=WC7FNe)
