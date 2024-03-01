@@ -9,16 +9,7 @@ thumbnail: /images/blog/post-9.png
 featureImage: ''
 ---
 
-\
-LETTRE OUVERTE A MONSIEUR LE PRESIDENT DE LA TRANSITION Brice Clotaire Oligui Nguema
-
-Monsieur le President,
-
-C’est avec humilité que je vous adresse cette lettre ouverte.
-
-[https://www.facebook.com/share/p/LMrd5vwmw3PuJ4Lp/?mibextid=WC7FNe](https://www.facebook.com/share/p/LMrd5vwmw3PuJ4Lp/?mibextid=WC7FNe) \\
-
-#### ARTS CULINAIRES : coupe du monde
+ARTS CULINAIRES : coupe du monde
 
 ![](/7EF6A600-C6AE-4605-AD29-0C55E200D1B8.jpeg)
 
