@@ -1,6 +1,6 @@
 ---
 title: Breaking news post
-date: 2021-01-13T12:11:40.000Z
+date: 2024-01-26T23:00:00.000Z
 tags: news
 tranding: true
 readTime: 10 min
