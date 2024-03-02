@@ -9,10 +9,44 @@ thumbnail: /featured-post.jpg
 featureImage: /59749F6F-E8CE-41E6-B0A7-165EE501F28F.jpeg
 ---
 
- Ministre de l’Economie , M. Mays Mouissi, a reçu le mardi 27 février 2024  M. Jean Maurice Ayine, PCA de la CAISTAB afin de discuter de la redynamisation de cette structure et de la possibilité de réduire les prix des carburants industriels.
+Ministre de l’Economie , M. Mays Mouissi, a reçu le mardi 27 février 2024  M. Jean Maurice Ayine, PCA de la CAISTAB afin de discuter de la redynamisation de cette structure et de la possibilité de réduire les prix des carburants industriels.
 
 ![](/AD960354-DC5A-4374-BA62-B9D32B95EBDC.jpeg)
 
-### The Dreamy Not Factors
+### Gabon : six mois après le coup d’Etat, bilan contrasté pour le général Oligui Nguema
 
-Lorem
+Des premières critiques émergent sur une gouvernance jugée autoritaire par ses détracteurs et qui tarde à réaliser ses promesses de « mieux vivre ». \
+
+
+![](/562CEBB5-2A70-41C6-A718-E13E1C802A5D.jpeg)
+
+Le Monde avec AFP
+
+Six mois après son coup d’Etat, qui a renversé le président Ali Bongo Ondimba, le général Brice Oligui Nguema jouit au [Gabon](https://www.lemonde.fr/gabon/) d’une immense popularité, mais des premières critiques émergent sur une gouvernance jugée autoritaire par ses détracteurs et qui tarde à réaliser ses promesses de « mieux vivre ».
+
+Les militaires, qui avaient proclamé, sans verser une goutte de sang, le 30 août 2023 « la fin du régime » Bongo, une heure après l’annonce de sa réélection jugée frauduleuse par l’armée, avaient été acclamés partout dans le pays. Le général Oligui, 48 ans, avait été porté en triomphe comme président de transition, promettant de rendre le pouvoir aux civils par des élections, dans un délai fixé plus tard à deux ans.
+
+Depuis plus de cinquante-cinq ans, la famille Bongo – le père, Omar, pilier de « la Françafrique » de 1967 à 2009, puis le fils Ali – dirigeait sans partage ce petit Etat d’Afrique centrale, riche de son pétrole, mais sous le joug d’une élite accusée par ses opposants de « corruption massive » et de « mauvaise gouvernance ».
+
+
+Vous pouvez partager un article en cliquant sur les icônes de partage en haut à droite de celui-ci. 
+La reproduction totale ou partielle d’un article, sans l’autorisation écrite et préalable du [Monde](https://www.lemonde.fr/), est strictement interdite. 
+Pour plus d’informations, consultez nos [conditions générales de vente](https://moncompte.lemonde.fr/cgv). 
+Pour toute demande d’autorisation, contactez syndication\@lemonde.fr. 
+En tant qu’abonné, vous pouvez offrir jusqu’à cinq articles par mois à l’un de vos proches grâce à la fonctionnalité « Offrir un article ». 
+
+[https://www.lemonde.fr/afrique/article/2024/02/27/gabon-six-mois-apres-le-coup-d-etat-bilan-contraste-pour-le-general-oligui-nguema\_6218811\_3212.html](https://www.lemonde.fr/afrique/article/2024/02/27/gabon-six-mois-apres-le-coup-d-etat-bilan-contraste-pour-le-general-oligui-nguema_6218811_3212.html)
+
+
+
+Le général Oligui « est arrivé à un moment où les Gabonais n’en pouvaient plus », commente François Ndong Obiang, un ancien ténor de l’opposition aujourd’hui vice-président de l’Assemblée nationale de transition, dont tous les députés ont été nommés par le nouveau dirigeant.
+
+## Les caisses de l’Etat peinent à se remplir
+
+Le pays, qui compte 2,3 millions d’habitants, dont la moitié a moins de 20 ans, « était en lambeaux sur le plan des infrastructures, de l’éducation, de la santé », et le général est, selon lui, perçu comme un « sauveur ». Le Gabon est l’un des plus riches d’Afrique par habitant, mais un habitant sur trois vit sous le seuil de pauvreté, avec moins de 2 euros par jour, selon la Banque mondiale.
+
+Aux Gabonais qui attendent toujours des routes et des écoles en bon état, ou qui vivent sans eau ou électricité parfois au cœur de la capitale, le Comité pour la transition et la restauration des institutions (CTRI), composé de généraux, promet de « redresser économiquement le pays » et « lutter contre la vie chère ». Notamment par le paiement des innombrables arriérés de retraites, la construction de routes et d’hôpitaux, le retour des bourses scolaires et bien d’autres promesses pour un « mieux vivre »
+
+
+
+\
