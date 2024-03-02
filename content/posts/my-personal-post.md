@@ -1,5 +1,5 @@
 ---
-title: "Gabon\_: six mois après le coup d’Etat, bilan mitigé  pour le général Oligui Nguema Des premières critiques émergent sur une gouvernance jugée autoritaire par ses détracteurs."
+title: "Gabon\_: six mois après le coup d’Etat, bilan mitigé  pour le général Oligui Nguema"
 date: 2021-01-13T13:10:40.000Z
 tags: 'Politique '
 featured: true
@@ -9,8 +9,7 @@ thumbnail: /A6BFD24F-192F-483B-AB94-75D0DECCF252.jpeg
 featureImage: /7E2CB305-DC51-4F0D-AA8A-4F79EACDE4B8.jpeg
 ---
 
-Des premières critiques émergent sur une gouvernance jugée autoritaire par ses détracteurs.\
-
+**Des premières critiques émergent sur une gouvernance jugée autoritaire par ses détracteurs.**
 
 ![](/7F6092E0-B07C-4093-8D4C-EA2A6FFFFF2F.jpeg)
 
@@ -40,5 +39,3 @@ Après avoir publiquement menacé les syndicalistes, flattant une population exc
 Un dialogue national « inclusif » doit s’ouvrir en avril, étape-clé vers une nouvelle Constitution et des élections, auxquelles il ne fait guère de doute que le général Oligui se présentera.
 
 HCG avec AFP
-
-
