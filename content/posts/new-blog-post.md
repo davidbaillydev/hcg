@@ -5,7 +5,7 @@ tags: 'Lifestyle '
 tranding: true
 readTime: 1min
 thumbnail: /5322CE9C-F8E9-49C4-AC6C-8AFE9CF104E8.jpeg
-featureImage: /A12D2446-20CC-4067-8247-983AFC313275.jpeg
+featureImage: /5630AEBD-7FF3-4B83-9AC5-75D5AA80EF0E.jpeg
 ---
 
 #### Nike Total Air Foamposite Max (2024) 🔥
