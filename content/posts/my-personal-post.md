@@ -2,7 +2,7 @@
 title: "Gabon\_: six mois après le coup d’Etat, bilan mitigé  pour le général Oligui Nguema"
 date: 2024-03-01T23:00:00.000Z
 tags: 'Politique '
-featured: true
+featured: false
 tranding: true
 readTime: 10 min
 thumbnail: /A6BFD24F-192F-483B-AB94-75D0DECCF252.jpeg
