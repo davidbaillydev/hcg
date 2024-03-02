@@ -68,4 +68,6 @@ Mais « à peine huit personnes ont été arrêtées », décompte Mme Bouss
 
 Le nouveau pouvoir se voit aussi accusé par l’opposition d’autoritarisme et le général Oligui d’un culte naissant de la personnalité entretenu par les tunnels de louanges sur les télévisions d’Etat. Le pouvoir maintient par exemple depuis six mois, sans livrer la moindre explication, un strict couvre-feu de minuit à 5 heures du matin, imposé au départ par le régime Bongo le soir de la présidentielle du 26 août 2023.
 
+Pour l’avocat Anges Kevin Nzigou, le maintien du couvre-feu est « liberticide ». Ce militant des droits humains se dit désormais opposant au « régime PDG persistant ». En décembre, les employés de la SEEG, qui fournit l’eau et l’électricité au Gabon, avaient appelé à la grève contestant la suppression de leur 13e mois.
+
 \
