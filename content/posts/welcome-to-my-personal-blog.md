@@ -45,8 +45,27 @@ Le général Oligui « est arrivé à un moment où les Gabonais n’en pouvai
 
 Le pays, qui compte 2,3 millions d’habitants, dont la moitié a moins de 20 ans, « était en lambeaux sur le plan des infrastructures, de l’éducation, de la santé », et le général est, selon lui, perçu comme un « sauveur ». Le Gabon est l’un des plus riches d’Afrique par habitant, mais un habitant sur trois vit sous le seuil de pauvreté, avec moins de 2 euros par jour, selon la Banque mondiale.
 
-Aux Gabonais qui attendent toujours des routes et des écoles en bon état, ou qui vivent sans eau ou électricité parfois au cœur de la capitale, le Comité pour la transition et la restauration des institutions (CTRI), composé de généraux, promet de « redresser économiquement le pays » et « lutter contre la vie chère ». Notamment par le paiement des innombrables arriérés de retraites, la construction de routes et d’hôpitaux, le retour des bourses scolaires et bien d’autres promesses pour un « mieux vivre »
+Aux Gabonais qui attendent toujours des routes et des écoles en bon état, ou qui vivent sans eau ou électricité parfois au cœur de la capitale, le Comité pour la transition et la restauration des institutions (CTRI), composé de généraux, promet de « redresser économiquement le pays » et « lutter contre la vie chère ». Notamment par le paiement des innombrables arriérés de retraites, la construction de routes et d’hôpitaux, le retour des bourses scolaires et bien d’autres promesses pour un « mieux vivre » 
 
 
+Vous pouvez partager un article en cliquant sur les icônes de partage en haut à droite de celui-ci. 
+La reproduction totale ou partielle d’un article, sans l’autorisation écrite et préalable du [Monde](https://www.lemonde.fr/), est strictement interdite. 
+Pour plus d’informations, consultez nos [conditions générales de vente](https://moncompte.lemonde.fr/cgv). 
+Pour toute demande d’autorisation, contactez syndication\@lemonde.fr. 
+En tant qu’abonné, vous pouvez offrir jusqu’à cinq articles par mois à l’un de vos proches grâce à la fonctionnalité « Offrir un article ». 
+
+[https://www.lemonde.fr/afrique/article/2024/02/27/gabon-six-mois-apres-le-coup-d-etat-bilan-contraste-pour-le-general-oligui-nguema\_6218811\_3212.html](https://www.lemonde.fr/afrique/article/2024/02/27/gabon-six-mois-apres-le-coup-d-etat-bilan-contraste-pour-le-general-oligui-nguema_6218811_3212.html)
+
+
+
+Le CTRI a placé des généraux à la tête des principales mairies et de nombreux militaires se mêlent aux civils au sein des instances dirigeantes. Mais le général Oligui se voit reprocher d’avoir massivement laissé en poste des caciques de l’ancien régime, notamment du Parti démocratique gabonais (PDG) d’Omar et Ali Bongo.
+
+## Un culte naissant de la personnalité
+
+« Les visages de cette transition sont des visages connus », assène Joanna Boussamba, porte-parole de l’observatoire de gouvernance publique Copil citoyen, qui déplore un « message d’impunité » et une portion congrue laissée à la société civile. « La transition est inclusive, elle doit prendre en compte tout le monde, même le PDG », rétorque le vice-président de l’Assemblée nationale.
+
+Mais « à peine huit personnes ont été arrêtées », décompte Mme Boussamba. Elle fait référence à l’entourage d’Ali Bongo, sa femme Sylvia et leur fils Noureddin au premier chef, détenus depuis le 30 août, accusés notamment de détournements massifs d’argent public et de falsification de la signature de l’ancien président. Le chef d’Etat renversé est pour sa part maintenu dans sa luxueuse résidence de Libreville.
+
+Le nouveau pouvoir se voit aussi accusé par l’opposition d’autoritarisme et le général Oligui d’un culte naissant de la personnalité entretenu par les tunnels de louanges sur les télévisions d’Etat. Le pouvoir maintient par exemple depuis six mois, sans livrer la moindre explication, un strict couvre-feu de minuit à 5 heures du matin, imposé au départ par le régime Bongo le soir de la présidentielle du 26 août 2023.
 
 \
