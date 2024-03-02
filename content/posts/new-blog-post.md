@@ -1,6 +1,6 @@
 ---
 title: 'Sneakers '
-date: 2024-02-01T23:00:00.000Z
+date: 2024-02-29T23:00:00.000Z
 tags: 'Lifestyle '
 tranding: true
 readTime: 1min
@@ -10,5 +10,5 @@ featureImage: /A12D2446-20CC-4067-8247-983AFC313275.jpeg
 
 #### Nike Total Air Foamposite Max (2024) 🔥
 
-Portée par l’un des meilleurs 4/5 à avoir foulé les parquets de la NBA, futur Hall of Famer, la [Nike Air Total Foamposite Max](https://www.sneakers.fr/basket/nike-air-total-foamposite-max%20) revient aux USA pour la rentrée. Tim Duncan jouait avec ce modèle en 1998, notamment dans son coloris silver. Elle sera disponible à l’ automne  2024 .Restez branché ! \
+Portée par l’un des meilleurs 4/5 à avoir foulé les parquets de la NBA, futur Hall of Famer, la [Nike Air Total Foamposite Max](https://www.sneakers.fr/basket/nike-air-total-foamposite-max%20) revient aux USA pour la rentrée. Tim Duncan jouait avec ce modèle en 1998, notamment dans son coloris silver. Elle sera disponible à l’ automne  2024 .Restez branché !\
 ![](/2FFCB73A-6D2F-4627-99D2-5FCE887FE8EC.jpeg)
