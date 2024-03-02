@@ -2,7 +2,7 @@
 title: Gabon Oil Company est deuxième après Petrogab
 date: 2024-02-26T23:00:00.000Z
 tags: petrol
-featured: false
+featured: true
 tranding: true
 readTime: 2 min
 thumbnail: /featured-post.jpg
