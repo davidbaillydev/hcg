@@ -23,7 +23,7 @@ Six mois après son coup d’Etat, qui a renversé le président Ali Bongo Ondim
 
 Les militaires, qui avaient proclamé, le 30 août 2023 « la fin du régime » Bongo, une heure après l’annonce de sa réélection jugée frauduleuse par l’armée, mettant fin à plus de cinquante-cinq ans, la famille Bongo – le père, Omar, pilier de « la Françafrique » de 1967 à 2009, puis le fils Ali – Le coup d’état appelé désormais coup de libération avait été acclamé partout dans le pays. Le général Oligui, avait été porté en triomphe comme président de transition, promettant de rendre le pouvoir aux civils par des élections, dans un délai fixé à deux ans au plus tard.
 
-## Les caisses de l’Etat peinent à se remplir
+### Où est passé l’argent 
 
 Le pays, qui compte 2,3 millions d’habitants, dont la moitié a moins de 20 ans, « était en lambeaux sur le plan des infrastructures, de l’éducation, de la santé », et le général est, selon lui, perçu comme un « sauveur ». Le Gabon est l’un des plus riches d’Afrique par habitant, mais un habitant sur trois vit sous le seuil de pauvreté, avec moins de 2 euros par jour, selon la Banque mondiale.
 
