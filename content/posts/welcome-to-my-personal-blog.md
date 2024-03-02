@@ -15,7 +15,7 @@ Ministre de l’Economie , M. Mays Mouissi, a reçu le mardi 27 février 2024  M
 
 ### Gabon : six mois après le coup d’Etat, bilan mitigé  pour le général Oligui Nguema
 
-Des premières critiques émergent sur une gouvernance jugée autoritaire par ses détracteurs.\\
+**Des premières critiques émergent sur une gouvernance jugée autoritaire par ses détracteurs.**
 
 ![](/562CEBB5-2A70-41C6-A718-E13E1C802A5D.jpeg)
 
