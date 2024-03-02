@@ -4,7 +4,7 @@ date: 2024-02-26T23:00:00.000Z
 tags: petrol
 featured: true
 tranding: true
-readTime: 2 min
+readTime: 8 min
 thumbnail: /featured-post.jpg
 featureImage: /59749F6F-E8CE-41E6-B0A7-165EE501F28F.jpeg
 ---
