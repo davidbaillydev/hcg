@@ -21,7 +21,16 @@ Panne mondiale chez Meta
 
 ##### Une panne qui n’est pas passée inaperçue sur laquelle le porte-parole de Meta, Andy Stone, a réagi sur X (ex-Twitter) : «Nous sommes au courant que des personnes ont des problèmes pour accéder à nos services. Nous y travaillons.»
 
-### ![](/FC292C01-70FE-4AD7-92BA-98CC8C86967B.jpeg) Présidentielle américaine 2024 : Nikki Haley annonce "suspendre" sa campagne, Donald Trump désormais seul en lice dans les primaires républicaines
+### ![](/FC292C01-70FE-4AD7-92BA-98CC8C86967B.jpeg) Présidentielle américaine 2024 : Nikki Haley annonce "suspendre" sa campagne, Donald Trump désormais seul en lice dans les primaires républicaines 
 
-> ![](/33AA940E-E68A-498D-A7A1-76C4FF20A79F.webp)\
->
+### ![](/F2079939-6466-49DB-BFAE-C675789C7CD8.png) L'ancienne gouverneure de Caroline du Sud s'est exprimée après la victoire dans 14 Etats de l'ex-président des Etats-Unis.
+
+#### Ce qu'il faut retenir 
+
+##### Dernière adversaire de l'ancien président américain dans la course à l'investiture. Nikki Haley a annoncé, mercredi 6 mars, "suspendre" sa campagne. Donald Trump, a remporté les scrutins organisés dans 14 Etats . Une quinzaine d'Etats et un territoire étaient appelés à voter dans le traditionnel " Super Thusday " pour désigner les futurs candidats des partis républicain et ![](/5BF56857-CD1D-4EEA-8370-FBC491EA2B69.jpeg)démocrate. 
+
+#### Donald Trump se voit déjà candidat du parti. Il manque encore quelques dizaines de votes de délégués au milliardaire, mais cela ne devait être que formalité. Il a salué "une soirée formidable, une journée incroyable", mardi soir, devant ses partisans réunis dans sa résidence de Mar-a-Lago (Floride). 
+
+#### ![](/42D2A60A-E46C-421E-9149-C839CD69E943.jpeg)
+
+####  Joe Biden remporte presque tous les scrutins chez les démocrates. Sans surprise, [le président sortant](https://www.francetvinfo.fr/monde/usa/presidentielle/presidentielle-americaine-comment-joe-biden-tente-de-faire-oublier-qu-il-fait-campagne-a-plus-de-80-ans_6327246.html) a remporté des victoires faciles dans tous les Etats qui votaient côté démocrate, selon les premiers résultats communiqués dans la nuit de mardi à mercredi par [l'agence AP](https://apnews.com/projects/election-results-2024/delegate-tracker/). En revanche, Jason Palmer, un illustre inconnu, l'a remporté dans les Samoa américaines, archipel du Pacifique.
