@@ -38,3 +38,5 @@ Panne mondiale chez Meta
 #### ![](/42D2A60A-E46C-421E-9149-C839CD69E943.jpeg)
 
 #####  Joe Biden remporte presque tous les scrutins chez les démocrates. Sans surprise, le président sortant a remporté des victoires faciles dans presque tous les Etats qui votaient démocrate. Un illustre inconnu Jason Palmer , l'a remporté dans les Samoa américaines, archipel du Pacifique.
+
+@HCG
