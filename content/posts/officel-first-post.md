@@ -11,12 +11,9 @@ featureImage: /EE921C98-9A41-4141-BEF7-A0A913DB54AC.jpeg
 
 # Panne mondiale chez Meta
 
-Le groupe Meta lutte ce mardi 5 mars après-midi contre un problème technique qui voit de nombreux usagers dans l’incapacité d’accéder à ses services.
+Le groupe Meta lutte ce mardi 5 mars après-midi contre un problème technique qui voit de nombreux usagers dans l’incapacité d’accéder à ses services.\
 
-
-
-### Make bette
 
 ![](/3CC8F645-73BF-4EC6-95DF-1D6B885595D3.jpeg)
 
-### The Dreamy F
+###
