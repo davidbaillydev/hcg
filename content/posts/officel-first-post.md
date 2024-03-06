@@ -24,4 +24,4 @@ Une panne qui n’est pas passée inaperçue sur laquelle le porte-parole de Met
 
 : «Nous sommes au courant que des personnes ont des problèmes pour accéder à nos services. Nous y travaillons.»
 
-![](/FC292C01-70FE-4AD7-92BA-98CC8C86967B.jpeg)
+![](/FC292C01-70FE-4AD7-92BA-98CC8C86967B.jpeg)\
