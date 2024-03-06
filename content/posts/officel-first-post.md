@@ -22,3 +22,5 @@ Plus de statut, de stories, ou de messages privés. Meta connaît une panne gén
 Une panne qui n’est pas passée inaperçue sur laquelle le porte-parole de Meta, Andy Stone, a réagi sur X (ex-Twitter)
 
  : «Nous sommes au courant que des personnes ont des problèmes pour accéder à nos services. Nous y travaillons.»
+
+![](/FC292C01-70FE-4AD7-92BA-98CC8C86967B.jpeg)
