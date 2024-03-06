@@ -33,4 +33,4 @@ Panne mondiale chez Meta
 
 #### ![](/42D2A60A-E46C-421E-9149-C839CD69E943.jpeg)
 
-####  Joe Biden remporte presque tous les scrutins chez les démocrates. Sans surprise, [le président sortant](https://www.francetvinfo.fr/monde/usa/presidentielle/presidentielle-americaine-comment-joe-biden-tente-de-faire-oublier-qu-il-fait-campagne-a-plus-de-80-ans_6327246.html) a remporté des victoires faciles dans tous les Etats qui votaient côté démocrate, selon les premiers résultats communiqués dans la nuit de mardi à mercredi par [l'agence AP](https://apnews.com/projects/election-results-2024/delegate-tracker/). En revanche, Jason Palmer, un illustre inconnu, l'a remporté dans les Samoa américaines, archipel du Pacifique.
+####  Joe Biden remporte presque tous les scrutins chez les démocrates. Sans surprise, le président sortant a remporté des victoires faciles dans presque tous les Etats qui votaient démocrate. Un illustre inconnu Jason Palmer , l'a remporté dans les Samoa américaines, archipel du Pacifique.
