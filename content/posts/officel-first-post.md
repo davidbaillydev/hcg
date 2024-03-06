@@ -17,9 +17,9 @@ Panne mondiale chez Meta
 
 ![](/3CC8F645-73BF-4EC6-95DF-1D6B885595D3.jpeg)
 
-###### &#x20;Plus de statut, de stories, ou de messages privés. Meta connaît une panne généralisée sur ses applications phares, Facebook, Instagram et Messenger, depuis ce mardi après-midi 5 mars. Les bugs se multiplient , à cela s’ajoute les nombreuses plaintes des utilisateurs. L’habituel code transféré par Facebook pour accéder à son compte ne semble plus fonctionner.  Même chose pour Messenger, et du côté Instagram, un fil d’actualité coupé.
+ Plus de statut, de stories, ou de messages privés. Meta connaît une panne généralisée sur ses applications phares, Facebook, Instagram et Messenger, depuis ce mardi après-midi 5 mars. Les bugs se multiplient , à cela s’ajoute les nombreuses plaintes des utilisateurs. L’habituel code transféré par Facebook pour accéder à son compte ne semble plus fonctionner.  Même chose pour Messenger, et du côté Instagram, un fil d’actualité coupé.
 
-###### Une panne qui n’est pas passée inaperçue sur laquelle le porte-parole de Meta, Andy Stone, a réagi sur X (ex-Twitter) : «Nous sommes au courant que des personnes ont des problèmes pour accéder à nos services. Nous y travaillons.»
+Une panne qui n’est pas passée inaperçue sur laquelle le porte-parole de Meta, Andy Stone, a réagi sur X (ex-Twitter) : «Nous sommes au courant que des personnes ont des problèmes pour accéder à nos services. Nous y travaillons.»
 
 ### ![](/FC292C01-70FE-4AD7-92BA-98CC8C86967B.jpeg)
 
@@ -29,14 +29,14 @@ Panne mondiale chez Meta
 
 #### **Ce qu'il faut retenir**
 
-###### Dernière adversaire de l'ancien président américain dans la course à l'investiture. Nikki Haley a annoncé, mercredi 6 mars, "suspendre" sa campagne. Donald Trump, a remporté les scrutins organisés dans 14 Etats . Une quinzaine d'Etats et un territoire étaient appelés à voter dans le traditionnel " Super Thusday " pour désigner les futurs candidats des partis républicain et démocrates.
+Dernière adversaire de l'ancien président américain dans la course à l'investiture. Nikki Haley a annoncé, mercredi 6 mars, "suspendre" sa campagne. Donald Trump, a remporté les scrutins organisés dans 14 Etats . Une quinzaine d'Etats et un territoire étaient appelés à voter dans le traditionnel " Super Thusday " pour désigner les futurs candidats des partis républicain et démocrates.
 
 ##### ![](/5BF56857-CD1D-4EEA-8370-FBC491EA2B69.jpeg)
 
-###### Donald Trump se voit déjà candidat du parti. Il manque encore quelques dizaines de votes de délégués au milliardaire, mais cela ne devait être que formalité. Il a salué "une soirée formidable, une journée incroyable", mardi soir, devant ses partisans réunis dans sa résidence de Mar-a-Lago (Floride).
+Donald Trump se voit déjà candidat du parti. Il manque encore quelques dizaines de votes de délégués au milliardaire, mais cela ne devait être que formalité. Il a salué "une soirée formidable, une journée incroyable", mardi soir, devant ses partisans réunis dans sa résidence de Mar-a-Lago (Floride).
 
 #### ![](/42D2A60A-E46C-421E-9149-C839CD69E943.jpeg)
 
-######  Joe Biden remporte presque tous les scrutins chez les démocrates. Sans surprise, le président sortant a remporté des victoires faciles dans presque tous les Etats qui votaient démocrate. Un illustre inconnu Jason Palmer , l'a remporté dans les Samoa américaines, archipel du Pacifique.
+ Joe Biden remporte presque tous les scrutins chez les démocrates. Sans surprise, le président sortant a remporté des victoires faciles dans presque tous les Etats qui votaient démocrate. Un illustre inconnu Jason Palmer , l'a remporté dans les Samoa américaines, archipel du Pacifique.
 
 @HCG
