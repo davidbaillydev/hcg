@@ -9,8 +9,7 @@ thumbnail: /images/blog/post-9.png
 featureImage: ''
 ---
 
-![](/706ED9AA-EAAC-42A2-8A3D-023641B567FD.jpeg)\
-
+\\
 
 ### ARTS CULINAIRES : coupe du monde
 
