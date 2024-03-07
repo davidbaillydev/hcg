@@ -10,16 +10,7 @@ featureImage: ''
 ---
 
 ![](/706ED9AA-EAAC-42A2-8A3D-023641B567FD.jpeg)\
-Magali Palmira Wora n’est plus Directrice Générale des Arts et des Industries Culturelles.
-Elle a été débarquée du Ministère de la Culture et des Arts à l’issue du Conseil des Ministres du 23 février 2024. Dans une lettre ouverte adressée au Président de la Transition, elle explique les raisons de sa mise à l’écart.Officiellement installée comme Directrice Générale des Arts et des Industries Culturelles lors d’une cérémonie qui s’est tenue au Palais des Sports le 27 octobre 2023 ….
 
-LETTRE OUVERTE A MONSIEUR LE PRESIDENT DE LA TRANSITION Brice Clotaire Oligui Nguema
-
-Monsieur le President,
-
-C’est avec humilité que je vous adresse cette lettre ouverte.
-
-[https://www.facebook.com/share/p/LMrd5vwmw3PuJ4Lp/?mibextid=WC7FNe](https://www.facebook.com/share/p/LMrd5vwmw3PuJ4Lp/?mibextid=WC7FNe) \\
 
 ### ARTS CULINAIRES : coupe du monde
 
@@ -30,7 +21,7 @@ Le Gabon a brillé à Hammamet ( Tunisie ) lors de la compétition organisé du 
 L’Association Africa Gastronomique avec ses trois chefs qui ont tous décroché une médaille : deux médailles d’or pour le chef Asham et chef Nicaise , et une en argent pour le chef Délhiat Koumba Koumba . \
 140 pays étaient représentés à cette coupe du monde de cuise et de pâtisserie avec plus de 5000 participants.
 
-### L’expo de la semaine  
+### L’expo de la semaine
 
 ![](/483AC9DA-15E7-450E-BB95-E3E9C28CD91F.jpeg)
 
