@@ -1,7 +1,7 @@
 ---
 title: La rupture entre le Barça et Nike est imminente
 date: 2024-02-28T23:00:00.000Z
-tags: news
+tags: 'Sport '
 featured: false
 tranding: true
 readTime: 3 min
