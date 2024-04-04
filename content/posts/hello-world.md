@@ -1,6 +1,6 @@
 ---
 title: People
-date: 2024-02-23T23:00:00.000Z
+date: 2024-03-30T23:00:00.000Z
 tags: 'Art et culture '
 featured: false
 tranding: true
