@@ -5,7 +5,7 @@ tags: people
 featured: false
 tranding: true
 readTime: 10 min
-thumbnail: /images/blog/post-9.png
+thumbnail: /652BB980-9634-4A44-A962-BB990589C669.webp
 featureImage: ''
 ---
 
