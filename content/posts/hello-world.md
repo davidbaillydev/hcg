@@ -1,9 +1,9 @@
 ---
 title: People
-date: 2024-03-30T23:00:00.000Z
+date: 2024-03-29T23:00:00.000Z
 tags: 'Art et culture '
-featured: false
-tranding: true
+featured: true
+tranding: false
 readTime: 10 min
 thumbnail: /652BB980-9634-4A44-A962-BB990589C669.webp
 featureImage: ''
