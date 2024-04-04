@@ -1,7 +1,7 @@
 ---
-title: 'Arts et Culture '
+title: People
 date: 2024-02-23T23:00:00.000Z
-tags: people
+tags: 'Art et culture '
 featured: false
 tranding: true
 readTime: 10 min
