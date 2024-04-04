@@ -27,11 +27,12 @@ Début mars, une dernière plainte venait rejoindre les précédentes, celle de 
 \
 Alors que l’étau semble quelque peu se resserrer autour de P. Diddy, son avocat Aaron Dyer a dénoncé mardi un “usage excessif flagrant de la force armée”, une “chasse aux sorcières basée sur des accusations sans fondement” et une embuscade “sans précédent – associée à une présence médiatique coordonnée”. Si deux des enfants du businessman ont été filmés menottés au moment des raids du FBI, l’avocat du rappeur a insisté expliquant que “ni M. Combs ni aucun membre de sa famille n’ont été arrêtés et leur capacité à voyager n’a été restreinte d’aucune manière”.
 
-Tandis que des rumeurs, démenties depuis, envoyaient P. Diddy en fuite vers le Cap-Vert à bord de son jet, il a toutefois été confirmé qu’il se trouvait dans un aéroport de Miami lundi. Il aurait eu une conversation avec des agents fédéraux, sans être arrêté, a confié une source policière à l’AFP. Selon le New York Times, il s’apprêtait à s’envoler pour les Bahamas mais est finalement resté aux États-Unis.
+Tandis que des rumeurs, démenties depuis, envoyaient P. Diddy en fuite vers le Cap-Vert à bord de son jet, il a toutefois été confirmé qu’il se trouvait dans un aéroport de Miami lundi. Il aurait eu une conversation avec des agents fédéraux, sans être arrêté, a confié une source policière à l’AFP. Selon le New York Times, il s’apprêtait à s’envoler pour les Bahamas mais est finalement resté aux États-Unis.\
 
-### ARTS CULINAIRES : coupe du monde
 
 ![](/7EF6A600-C6AE-4605-AD29-0C55E200D1B8.jpeg)
+
+### Gastronomie : coupe du monde
 
 Le Gabon a brillé à Hammamet ( Tunisie ) lors de la compétition organisé du 22 au 26 février.
 
