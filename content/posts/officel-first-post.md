@@ -21,7 +21,7 @@ featureImage: /EE921C98-9A41-4141-BEF7-A0A913DB54AC.jpeg
 
 Une panne qui n’est pas passée inaperçue sur laquelle le porte-parole de Meta, Andy Stone, a réagi sur X (ex-Twitter) : «Nous sommes au courant que des personnes ont des problèmes pour accéder à nos services. Nous y travaillons.»
 
-### ![](/FC292C01-70FE-4AD7-92BA-98CC8C86967B.jpeg)
+###
 
 ### &#x20;Présidentielle américaine 2024 : Nikki Haley annonce "suspendre" sa campagne, Donald Trump désormais seul en lice dans les primaires républicaines
 
