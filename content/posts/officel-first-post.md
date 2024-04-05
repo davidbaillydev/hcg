@@ -2,7 +2,7 @@
 title: Monde
 date: 2024-03-04T23:00:00.000Z
 tags: 'Infos '
-featured: false
+featured: true
 tranding: true
 readTime: 3 min
 thumbnail: ''
