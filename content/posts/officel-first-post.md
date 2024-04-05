@@ -2,16 +2,14 @@
 title: Monde
 date: 2024-03-04T23:00:00.000Z
 tags: 'Infos '
-featured: true
+featured: false
 tranding: true
 readTime: 3 min
-thumbnail: /B22088B3-F603-4DEC-BC85-6BF63693D366.jpeg
+thumbnail: ''
 featureImage: /EE921C98-9A41-4141-BEF7-A0A913DB54AC.jpeg
 ---
 
-**Bug**\
-
-
+**Bug**\\
 
 ## Panne mondiale chez Meta
 
