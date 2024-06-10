@@ -10,4 +10,4 @@ thumbnail: /images/author.png
 featureImage: ''
 ---
 
-#### Au cours de la cérémonie de remise des diplômes des 42e et 7e promotions de médecins et pharmaciens de l'USS
+##### Au cours de la cérémonie de remise des diplômes des 42e et 7e promotions de médecins et pharmaciens de l'USS, Brice Clotaire Oligui Nguema, le parrain de ces promotions, a présenté plusieurs mesures puissantes.
