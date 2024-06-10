@@ -1,5 +1,7 @@
 ---
-title: Breaking news post
+title: >-
+  Les candidatures des enseignants-chercheurs au CAMES bénéficient d'une aide
+  financière de 100 millions de FCFA de la part de Brice Oligui Nguema.
 date: 2024-02-26T23:00:00.000Z
 tags: news
 tranding: true
@@ -8,8 +10,6 @@ thumbnail: /images/author.png
 featureImage: /C2F544BF-C2D6-42D3-8D9A-EA4E7BCE9FA8.jpeg
 ---
 
-#### Insolite :
-
-Ce mercredi 28 février le blogueur et activiste Gabonais Bienvenu  Effayong connu sous le nom de « Bitome » a encore fait parler de lui , estimant  qui s’il n’y avait pas de ministres à Kango, ce serait du à la photo de l’ancien Président de la République Ali Bongo Ondimba. Par conséquent, il a décida de l’arracher.
+#### Au cours de la cérémonie de remise des diplômes des 42e et 7e promotions de médecins et pharmaciens de l'USS
 
 ![](/AA5F8C16-4572-4849-A185-B3877AB62C4D.jpeg)
