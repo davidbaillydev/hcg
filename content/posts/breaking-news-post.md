@@ -7,9 +7,7 @@ tags: news
 tranding: true
 readTime: 1min
 thumbnail: /images/author.png
-featureImage: /C2F544BF-C2D6-42D3-8D9A-EA4E7BCE9FA8.jpeg
+featureImage: ''
 ---
 
 #### Au cours de la cérémonie de remise des diplômes des 42e et 7e promotions de médecins et pharmaciens de l'USS
-
-![](/AA5F8C16-4572-4849-A185-B3877AB62C4D.jpeg)
