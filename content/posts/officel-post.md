@@ -2,6 +2,7 @@
 title: 'Culture '
 date: 2024-09-12T22:00:00.000Z
 tags: 'Sneakers '
+featured: true
 tranding: false
 readTime: 3 min
 thumbnail: /33A85777-C3CF-436E-941C-E293415EB1CB.jpeg
