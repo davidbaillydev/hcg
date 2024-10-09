@@ -1,6 +1,6 @@
 ---
 title: 'Culture '
-date: 2021-01-13T12:10:30.000Z
+date: 2024-09-12T22:00:00.000Z
 tags: 'Sneakers '
 tranding: false
 readTime: 3 min
